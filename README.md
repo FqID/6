@@ -59,7 +59,7 @@
 
 
 
-<font color="#0000A0"><strong>索&nbsp; 取&nbsp; 自&nbsp; 由&nbsp; 门&nbsp;邮&nbsp;箱</strong>
+<font color="#0000A0"><strong>索&nbsp; 取&nbsp; 自&nbsp; 由&nbsp; 门&nbsp; 邮&nbsp; 箱</strong>
 
 &nbsp;&nbsp;&nbsp;<a href="ziyoumen99@gmail.com">ziyoumen99@gmail.com</a> <br>
 &nbsp;&nbsp;&nbsp;<a href="freeget.one@gmail.com">freeget.one@gmail.com</a> 
