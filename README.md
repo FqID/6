@@ -17,7 +17,7 @@
 
 <a target="_blank" href="https://github.com/uuu3/u/blob/master/u.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 
-<font color="#0000A0"><strong>临&nbsp; 时&nbsp; 翻&nbsp; 墙&nbsp; 看&nbsp; 自&nbsp; 由&nbsp; 新&nbsp; 闻&nbsp; </strong>
+<font color="#0000A0"><strong>临&nbsp; 时&nbsp; 翻&nbsp; 墙&nbsp; 看&nbsp; 自&nbsp; 由&nbsp; 资&nbsp; 讯 </strong>
 
 
 &nbsp;&nbsp;&nbsp; <a href="https://github.com/19920513/djy/blob/master/gb/nf1351518.md#1">地&nbsp; 址&nbsp; 一</a> 
