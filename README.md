@@ -7,7 +7,7 @@
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
-
+<div align="center">
 <body>
 <a target="_blank" href="https://github.com/19920513/www/tree/master"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <p><big><font color="#FF0000"><strong>突&nbsp; 破&nbsp; 网&nbsp; 络&nbsp; 封&nbsp; 锁&nbsp;——&nbsp; ——&nbsp;</strong></font></big></p>
