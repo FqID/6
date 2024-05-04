@@ -10,7 +10,7 @@
 <div align="center">
 <body>
 <a target="_blank" href="https://github.com/19920513/www/tree/master"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<p><big><font color="#FF0000"><strong>&nbsp;——&nbsp; ——&nbsp;突&nbsp; 破&nbsp; 网&nbsp; 络&nbsp; 封&nbsp; 锁&nbsp;——&nbsp; ——&nbsp;</strong></font></big></p>
+<p><big><font color="#FF0000"><strong>————突&nbsp; 破&nbsp; 网&nbsp; 络&nbsp; 封&nbsp; 锁————</strong></font></big></p>
 
 <br>
 
