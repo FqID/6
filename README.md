@@ -20,7 +20,7 @@
 <font color="#0000A0"><strong>临&nbsp; 时&nbsp; 翻&nbsp; 墙&nbsp; 看&nbsp; 自&nbsp; 由&nbsp; 资&nbsp; 讯 </strong>
 
 
-&nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/shenzhouzhengdao/w/">地&nbsp; 址&nbsp; 一</a> 
+&nbsp;&nbsp;&nbsp; <a href="https://github.com/kevelena/djy">地&nbsp; 址&nbsp; 一</a> 
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp; <a href="https://github.com/uuu3/u/blob/master/u.md#1">地&nbsp; 址&nbsp; 二</a>
 &nbsp;&nbsp;&nbsp;<br>
@@ -42,11 +42,11 @@
 
 
 
-&nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgp.zip">地&nbsp; 址&nbsp; 一</a> 
+&nbsp;&nbsp;&nbsp; <a href="https://github.saganlu.cfd/sglfree2/fqsoft/master/software/fg800p.zip">地&nbsp; 址&nbsp; 一</a> 
 &nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp; <a href="https://github.com/freegate-release/website/archive/fglatest.zip">地&nbsp; 址&nbsp; 二</a> 
+&nbsp;&nbsp;&nbsp; <a href="https://bitbucket.org/fastfile2010/aaa202102/downloads/fg800p.rar">地&nbsp; 址&nbsp; 二</a> 
 &nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp; <a href="https://bitbucket.org/fastfile2010/aaa202102/downloads/fg799p.rar">地&nbsp; 址&nbsp; 三</a> 
+&nbsp;&nbsp;&nbsp; <a href="https://www.evernote.com/shard/s726/client/snv?isnewsnv=true&noteGuid=827b1d06-55b6-4840-8b11-4c338819228f&noteKey=af99995933b1501b79ae44957d168419&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs726%2Fsh%2F827b1d06-55b6-4840-8b11-4c338819228f%2Faf99995933b1501b79ae44957d168419&title=%25E6%259C%2580%25E6%2596%25B0%25E7%2589%2588%25E7%25BF%25BB%25E5%25A2%2599%25E8%25BD%25AF%25E4%25BB%25B6%25E4%25B8%258B%25E8%25BD%25BD">地&nbsp; 址&nbsp; 三</a> 
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp; <a href="https://d3bgfezntikgy4.cloudfront.net/?cdwaN2CNp=QA_gsJRcx3L&CC=JAGw&Ti1=vb4yhQ9&4dgqTjl=rc6iA&rWDSAMe=19i8qF&apJb=f_xd">地&nbsp; 址&nbsp; 四</a> 
 &nbsp;&nbsp;&nbsp;<br>
